@@ -39,7 +39,7 @@ Lista Mult(Lista a, Lista b){
         resultado = help;
         resultado = inverte(criar_lista(), resultado);
 
-        acumulado=0;
+        acumulado+=0;
         count++;
         aux2 = b;
         aux1 = aux1->prox;
